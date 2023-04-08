@@ -1,7 +1,7 @@
 <img align="center" alt="coding" height="250" width="1000" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
 <h3 align="center">Skilful Experienced web developer passionate about creating innovative and user-friendly web applications.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/DevyManish/DevyManish/blob/main/dd1-unscreen.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devymanish&label=Profile%20views&color=0e75b6&style=flat" alt="devymanish" /> </p>
 
 
