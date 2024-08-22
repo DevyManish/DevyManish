@@ -33,10 +33,11 @@
 
 <!-- Stats -->
 
-## 📃 My Stats:
+## 📊 My Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devymanish&show_icons=true&locale=en&layout=compact" alt="devymanish" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devymanish&show_icons=true&locale=en" alt="devymanish" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devymanish&" alt="devymanish" /></p>
+![](https://github-readme-stats.vercel.app/api?username=DevyManish&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevyManish&theme=dark&hide_border=true)<br/>
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DevyManish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
