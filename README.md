@@ -1,23 +1,23 @@
 <img align="center" alt="coding" height="300" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/intro.gif">
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
-<h3 align="center">I’m a third-year engineering student at JIS University, Kolkata with a passion for tinkering with web technologies</h3>
+<h3 align="center">I’m a third-year engineering student who has a passion for tinkering with web technologies</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/DevyManish/DevyManish/blob/main/dd1-unscreen.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devymanish&label=Profile%20views&color=0e75b6&style=flat" alt="devymanish" /> </p>
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **AI Powered WebAPPs**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **manishguptacpn@gmail.com**
+- 📫 How to reach me **manishguptafr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-gupta-9a6658266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-gupta-9a6658266" height="30" width="40" /></a>
-<a href="https://fb.com/manish gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/l+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l+" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manishguptafr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-gupta-9a6658266" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devymanish?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish gupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/l_m_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l+" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
