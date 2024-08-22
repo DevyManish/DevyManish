@@ -1,4 +1,4 @@
-<img align="center" alt="coding" height="300" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/Hello%2520World.gif">
+<img align="center" alt="coding" height="300" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/intro.gif">
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
 <h3 align="center">Skilful Experienced web developer passionate about creating innovative and user-friendly web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/DevyManish/DevyManish/blob/main/dd1-unscreen.gif">
