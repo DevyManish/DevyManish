@@ -1,4 +1,6 @@
-<img align="center" alt="coding" height="200" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/banner.png">
+<a href="https://manishguptaa.me">
+  <img align="center" alt="coding" height="200" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/banner.png" />
+</a>
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
 <h3 align="center">I’m a third-year engineering student who has a passion for tinkering with web technologies</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/DevyManish/DevyManish/blob/main/dd1-unscreen.gif">
