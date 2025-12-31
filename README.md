@@ -1,5 +1,5 @@
-<a href="https://manishguptaa.me">
-  <img align="center" alt="coding" height="200" width="1000" src="https://github.com/DevyManish/DevyManish/blob/main/banner.png" />
+<a href="https://manishguptaa.vercel.app">
+  <img align="center" alt="coding" height="200" width="1000" src="https://raw.githubusercontent.com/DevyManish/DevyManish/refs/heads/main/Krishna%20Spring%20In%20Kullu%20Banner.jpg" />
 </a>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Manish Gupta</h1>
 <h3 align="center">I’m a final year engineering student who has a passion for tinkering with web technologies</h3>
