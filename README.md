@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Manish Gupta</h1>
 <h3 align="center">I am a final-year Computer Science Engineering student at JIS University.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/DevyManish/DevyManish/blob/main/cat.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/DevyManish/DevyManish/blob/main/cat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devymanish&label=Profile%20views&color=0e75b6&style=flat" alt="devymanish" /> </p>
 
 - 🔭 I’m currently working on **GenAI Powered Applications**.
